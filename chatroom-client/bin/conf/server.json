@@ -1,0 +1,10 @@
+{
+  "Module": {
+    "gate": [
+      {
+        "Id": "chat",
+        "ProcessID": "development"
+      }
+    ]
+  }
+}
